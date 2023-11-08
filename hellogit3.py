@@ -1,1 +1,1 @@
-print("Holiwi GIT 3")
+print("Holiwi GIT 3 v.2")
