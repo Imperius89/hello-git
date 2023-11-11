@@ -1,1 +1,1 @@
-print("New Holiwi GIT con cambiaciones :D")
+print("Holiwi GIT con cambiaciones :D")
